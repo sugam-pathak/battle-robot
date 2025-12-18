@@ -14,6 +14,10 @@ It contain 4 wheel motor for drive. inforont of bot there is wadge and weapon
 **Circuit digram**
 <img width="1273" height="772" alt="Screenshot 2025-12-18 051601" src="https://github.com/user-attachments/assets/dbee6a47-5441-4616-b020-bfa678bf0dfa" />
 Make sure the all wire connection. We dont need a pcb bord.
+
+<img width="438" height="451" alt="Screenshot 2025-12-18 112722" src="https://github.com/user-attachments/assets/33c95263-6343-44b5-92f8-9d242422dd41" />
+Manage the wiring like this. dont short the two wire with each other and dont overlap the component,
+use solding iron to make strong connection
 ***
 
 **CASE**
