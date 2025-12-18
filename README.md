@@ -1,82 +1,25 @@
-This project is a 15 kg weight-class battle robot designed for competitive robotic combat. The bot uses a 4-wheel drive system powered by Johnson DC motors and features a single horizontal spinning weapon for high-impact attacks. The design focuses on durability, stability, and aggressive combat performance.
 
-⚙️ Key Features
+![img_2361](https://github.com/user-attachments/assets/9933cc9f-7807-4d09-a91c-192312a5c754)
+"WARIOR" stands for "Warrior" because it is a 15 kg robot with a 4-wheel drive system. This robot is
+"It combines a horizontal spinning weapon with a front wedge (wedge) which allows for high impact blows while retaining strong pushing power. This gives the warrior increased dexterity
+**LAYOUT**
+<img width="467" height="624" alt="Screenshot 2025-12-18 111021" src="https://github.com/user-attachments/assets/960a34fc-cea8-4f94-8176-768fa8d7738e" />
+It contain 4 wheel motor for drive. inforont of bot there is wadge and weapon
 
-Weight Class: 15 kg (Featherweight)
+**Circuit digram**
+<img width="1273" height="772" alt="Screenshot 2025-12-18 051601" src="https://github.com/user-attachments/assets/dbee6a47-5441-4616-b020-bfa678bf0dfa" />
+Make sure the all wire connection. We dont need a pcb bord.
 
-Drive System: 4× Johnson DC motors (independent wheel drive)
+**CASE**
+Make the case of bot with steel frame it increase the duriablity of the bot ib battle time.
+or you can make with 3d printer using PLA fillament.
+Note:Print the half case 2 time both up and downside model and design is same.
 
-Weapon System: High-speed horizontal spinner
+**PHOTOS**
 
-Chassis: Steel sheet frame for strength and impact resistance
+<img width="770" height="586" alt="Screenshot 2025-12-18 110643" src="https://github.com/user-attachments/assets/21c98480-5fbe-4619-af50-a9b8aaad46cc" />
 
-Control: RC-based wireless control system
-
-Power System: High-discharge Li-ion/LiPo battery with ESCs
-📷 Circuit Design & Images
-
-Below are the images of the drive and weapon control circuit used in this battle bot. The circuit was designed using circuit design software, so no custom PCB was required.
-<img width="1273" height="772" alt="image" src="https://github.com/user-attachments/assets/4cb42714-5a7a-4130-8b4f-505d4bf83846" />
-
-🔩 Technical Specifications
-Component	Specification
-Total Weight	15 kg
-Drive Motors	4 × Johnson DC motors
-Weapon Type	Horizontal Spinner
-Weapon Drive	High-RPM motor with belt/gear transmission
-Chassis Material	Steel sheet (≈0.6 mm)
-Wheel Count	4
-Control System	RC Transmitter & Receiver
-Battery	High-current rechargeable battery
-ESCs	Brushed ESCs for drive & weapon
-🛠️ Design & Development
-
-Circuit designed using circuit design software (no custom PCB required)
-
-Mechanical structure modeled using 3D CAD software
-
-Component selection based on budget, availability, and combat reliability
-
-Inspired by existing battle bots with custom improvements
-
-🎯 Objectives
-
-Build a combat-ready battle bot within the 15 kg limit
-
-Gain hands-on experience in robotics, electronics, and mechanical design
-
-Participate in robotic battles and competitions
-
-Improve skills in RC systems, motor control, and weapon balancing
-
-⚠️ Safety Notes
-
-Always test the spinner with proper safety barriers
-
-Use a physical kill switch before powering the robot
-
-Wear safety gear during testing and operation
-
-Follow competition safety rules strictly
-
-🚀 Future Improvements
-
-Upgrade to brushless motors for higher efficiency
-
-Thicker armor for improved survivability
-
-Modular weapon system
-
-Custom PCB for cleaner wiring and reliability
-
-📷 Media
-
-Chassis design images
-
-Circuit diagrams
-
-Weapon testing videos
-
-📜 License
-
-This project is open for educational and non-commercial use. Feel free to learn, modify, and improve the design.
+![img_2361](https://github.com/user-attachments/assets/40c2f9e8-2199-45aa-8b00-33718c87ba2d)
+<img width="1273" height="772" alt="Screenshot 2025-12-18 051601" src="https://github.com/user-attachments/assets/dbee6a47-5441-4616-b020-bfa678bf0dfa" />
+**CREDITS**
+Inspired by a robo battle show and self experiment.
